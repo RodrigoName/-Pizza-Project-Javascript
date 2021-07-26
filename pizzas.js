@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:30.00, sizes:['100g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:29.00, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:33.40, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:35.77, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:5, name:'Sorvete', img:'images/pizza5.png', price:70.00, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:29.55, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'},
+    {id:7, name:'M&Ms', img:'images/pizza7.png', price:120.36, sizes:['320g', '530g', '860g'], description:'Nossas pizzas são feitas com ingredientes de primeira qualidade. Utilizamos formo a lenha, o que garante maior sabor final !'}
+];
